@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (testprogram.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program.cpp
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(35,3): warning C4551: function call missing argument list
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(35,9): warning C4551: function call missing argument list
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(125,3): warning C4551: function call missing argument list
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(125,9): warning C4551: function call missing argument list
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(239,4): warning C4551: function call missing argument list
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(251,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(259,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(355,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(376,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(409,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(412,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(450,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(495,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(498,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(522,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(525,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(541,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(586,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(599,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\testprogram\Program.cpp(615,20): warning C4018: '<': signed/unsigned mismatch
+  testprogram.vcxproj -> C:\Users\abanob\Downloads\testprogram - Copy\testprogram - Copy\Debug\DataStructure.exe
