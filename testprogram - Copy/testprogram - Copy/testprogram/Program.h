@@ -13,9 +13,10 @@ class Program
 {
 public:
 	vector<User>users;
-
+	User* usernow;
 	list<Message> sentmessages;
-	stack<int> reciepientIDs;
+	list<int> reciepientIDs;
+	int id_Of_Last_Recipient;
 	//list<Message> favourites;
 	void readdata();
 	Program();
@@ -40,4 +41,8 @@ public:
 	void addtofavourites();
 	void viewfavourites();
 	void popoldestFavourite();
+	void checkRecipients();
+	void writetofile(list<string> mylist, string filepath);
+	list<string> returnmessages(string filepath);
+	
 };
